@@ -1,8 +1,9 @@
 Ejercicio 1:
 
-   La solución al ejercicio es la función "clasificarLista", la cual recibe
-una lista de números y devuelve una lista de tuplas con la clasificación
-de cada elemento.
+   La solución al ejercicio es la función "clasificarLista".
+
+   La funcion recibe una lista de números y devuelve una lista de tuplas 
+con la clasificación de cada elemento.
 
    Para probar la corrección de la función se han usado los siguientes 
 juegos de datos:
@@ -13,3 +14,4 @@ juegos de datos:
    
    [3, 21, 52] -> [(3, 'defectivo'), (21, 'defectivo'), (52, 'defectivo')]
    
+
